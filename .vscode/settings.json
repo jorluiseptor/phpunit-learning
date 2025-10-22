@@ -1,0 +1,12 @@
+{
+    "phpunit.command": "${workspaceFolder}\\phpunit.cmd",
+    "phpunit.args": [
+        "--configuration=${workspaceFolder}\\phpunit.xml"
+    ],
+    "phpunit.php": "php",
+    "php.problems.enabled": true,
+    "php.suggest.basic": false,
+    "better-phpunit.commandSuffix": null,
+    "better-phpunit.phpunitBinary": "${workspaceFolder}\\phpunit.cmd",
+    "better-phpunit.xmlConfigFilepath": "${workspaceFolder}\\phpunit.xml"
+}
